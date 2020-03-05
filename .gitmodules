@@ -1,0 +1,3 @@
+[submodule "bcm-protos"]
+	path = bcm-protos
+	url = https://github.com/bcmapp/bcm-protos.git
